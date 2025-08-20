@@ -17,7 +17,7 @@ Navigasi sederhana antar halaman
 
 📂 Cara Menjalankan
 1. Clone repository ini:
-git clone https://github.com/username/perpustakaan-website.git
+git clone [https://github.com/username/perpustakaan-website.git](https://github.com/LazuardiAdityaPratamaPutra/perpustakaan-web)
 2. Buka folder project
 3. Jalankan file index.html di browser
 
